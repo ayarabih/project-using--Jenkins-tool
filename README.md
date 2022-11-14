@@ -1,5 +1,4 @@
-<h3 align="center">This project is for all beginners & Logging<br>learning  jenkins tool for devops<br>UdaPeople<i>(Cloud-Based Software)</i></h3>
-
+<h3 align="center">This project is for all beginners & Logging<br>learning  jenkins tool for devops
 continuous learning with easy way 
 And in which this tool jenkins are practiced by making a part of the code on Jenkins and makeing it combile and test in a simple way
 this daygram help you to know  what we will doing 
