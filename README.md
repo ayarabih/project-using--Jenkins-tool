@@ -5,7 +5,7 @@ this daygram help you to know  what we will doing
 
 
 
-![image](https://user-images.githubusercontent.com/109382355/201735075-541be998-0883-4900-a480-26a23d951b11.png)
-
+![image](https://user-images.githubusercontent.com/109382355/201738969-72255dc1-c245-40e9-8cd6-baf6a2500d1b.png)
+  
 note
 i write PDF will learn you by steps how could you learn jenkins 
